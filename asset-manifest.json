@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bookmark-landing-page/static/css/main.d905a969.css",
+    "main.js": "/bookmark-landing-page/static/js/main.7b8d35e0.js",
+    "static/js/787.46729148.chunk.js": "/bookmark-landing-page/static/js/787.46729148.chunk.js",
+    "index.html": "/bookmark-landing-page/index.html",
+    "main.d905a969.css.map": "/bookmark-landing-page/static/css/main.d905a969.css.map",
+    "main.7b8d35e0.js.map": "/bookmark-landing-page/static/js/main.7b8d35e0.js.map",
+    "787.46729148.chunk.js.map": "/bookmark-landing-page/static/js/787.46729148.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d905a969.css",
+    "static/js/main.7b8d35e0.js"
+  ]
+}
